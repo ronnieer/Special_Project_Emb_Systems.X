@@ -50,7 +50,7 @@ På PCB:n finns även några lysdioder för att visa statusen för den bluetooth
 
 Prestandan är överlägsen både i läsbarhet och snabbhet. Upplösningen är dock bara 1/15 mätt i monokroma pixlar, eller 1/5 mätt i totala mängden aktiva pixelelement Samtidigt så ger den låga upplösningen en intressant look
 
-Vad gäller energiförbrukning så är det svårt att skatta. Det som går att säga är att förstärkarens elektronrör behöver ca 30 W för glödström. Jag tänker mig att det är mer än displayen. samtidigt så är förmodligen displayen den stora förbrukaren i stand by läge. Förstärkaren går att stänga av, men det ger samtidigt problem med klock/ kalenderkretsen som går några sekunder fort varje dygn. Detta är kompenserat för genom att klock/ kalender kretsen justeras av den centrala mikrokontrollern en gång per dygn och det kan bara ske om förstärkaren är i stand by eller drift.
+Vad gäller energiförbrukning så är det svårt att skatta. Det som går att säga är att förstärkarens elektronrör behöver ca 30 W för glödström. Jag tänker mig att det är mer än displayen. Samtidigt så är förmodligen displayen den stora förbrukaren i stand by läge. Förstärkaren går att stänga av, men det ger samtidigt problem med klock/ kalenderkretsen som går några sekunder fort varje dygn. Detta är kompenserat för genom att klock/ kalender kretsen justeras av den centrala mikrokontrollern en gång per dygn och det kan bara ske om förstärkaren är i stand by eller drift.
 
 3 TESTER
 
