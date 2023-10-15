@@ -73,4 +73,14 @@ Kostnaden som finns angiven i Bilaga 6 avser styckpriset för framtagandet av 5 
 
 5 BILAGOR:
 
-Bilaga 1: Grafikkort Kretsschema.pdf PDF:en innehåller komplett koplingsschema för "Grafikkortet" Bilaga 2: Grafikkort Mönsterkort Front Side.pdf PDF:en innehåller Mönsterkortets framsida Bilaga 3: Grafikkort Mönsterkort Rear Side PDF:en innehåller Mönsterkortets baksida Bilaga 4: Grafikkort 3D VY Framsida PDF:en innehåller en 3D Vy över kortets framsida Bilaga 5: Grafikkort 3D VY Baksida PDF:en innehåller en 3D Vy över kortets baksida Bilaga 6: Bilaga 6 BOM Display PDF:en innehåller en materiellista med de faktiuska kostnader som finns, undantaget kolumnen med artiklar som redan fanns hema, som är uppskattade priser
+Bilaga 1: Grafikkort Kretsschema.pdf PDF:en innehåller komplett koplingsschema för "Grafikkortet" 
+
+Bilaga 2: Grafikkort Mönsterkort Front Side.pdf PDF:en innehåller Mönsterkortets framsida 
+
+Bilaga 3: Grafikkort Mönsterkort Rear Side PDF:en innehåller Mönsterkortets baksida 
+
+Bilaga 4: Grafikkort 3D VY Framsida PDF:en innehåller en 3D Vy över kortets framsida 
+
+Bilaga 5: Grafikkort 3D VY Baksida PDF:en innehåller en 3D Vy över kortets baksida 
+
+Bilaga 6: Bilaga 6 BOM Display PDF:en innehåller en materiellista med de faktiuska kostnader som finns, undantaget kolumnen med artiklar som redan fanns hema, som är uppskattade priser
