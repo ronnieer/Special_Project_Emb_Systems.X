@@ -84,3 +84,5 @@ Bilaga 4: Grafikkort 3D VY Framsida PDF:en innehåller en 3D Vy över kortets fr
 Bilaga 5: Grafikkort 3D VY Baksida PDF:en innehåller en 3D Vy över kortets baksida 
 
 Bilaga 6: Bilaga 6 BOM Display PDF:en innehåller en materiellista med de faktiska kostnader som finns, undantaget kolumnen med artiklar som redan fanns hema, som är uppskattade priser
+
+Bilaga 7: YouTube - Video Inbyggda System
