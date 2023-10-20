@@ -64,7 +64,7 @@ Fem felfall har skapats för att se hur displayen reagerar på felaktiga data.
 
 3.4 Start of text, ASCII 0x02, skrivs tvärt in i textöverföringen, men kompletteras inte av full textmassa. Om testet går "rätt" komer inte raderna enligt 3.1 och 3.2 att visas. I stället kommer en förklaring varför inte att visas på displayen.
 
-3.5 Start of text, ASCII 0x02, skrivs tvärt in i textöverföringen och kompletteras inte av full textmassa. Texterna enligt 3.1 och 3.2 kommer att visas på respektive displayrad. Testet visar att display och firmware klarar att direkt fånga upp ett nytt meddelande.
+3.5 Start of text, ASCII 0x02, skrivs tvärt in i textöverföringen och kompletteras av full textmassa. Texterna enligt 3.1 och 3.2 kommer att visas på respektive displayrad. Testet visar att display och firmware klarar att direkt fånga upp ett nytt meddelande.
 
 
 4 EKONOMI, BOM - lista/ kostnader:
