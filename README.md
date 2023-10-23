@@ -15,7 +15,6 @@ Readme - RGB LED Matris 64x 32 pixels:
 0 ORIENTERING:
 
 
-
 Tanken bakom projektet att byta display på ett prototypbygge av en förförstärkare med elektronrör var att innom ramen för inlämningsuppgiften specialarbete i kursen programmering och utveckling av inbyggda syetem byta ut en LCD display mot en LED display. Den gamla LCD:n var rerlativt ljusstark, men hade dålig kontrast och betrakningsvinkel. Det gjorde den svår att läsa på håll och från sidan. En annan faktor som gjorde bytet intressant var ökad teckenhöjd och lägre pris.
 
 1 HUR DET GICK TILL:
